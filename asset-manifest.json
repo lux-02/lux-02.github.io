@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/study_react/static/css/main.486dc120.css",
+    "main.js": "/study_react/static/js/main.7535c475.js",
+    "index.html": "/study_react/index.html",
+    "main.486dc120.css.map": "/study_react/static/css/main.486dc120.css.map",
+    "main.7535c475.js.map": "/study_react/static/js/main.7535c475.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.486dc120.css",
+    "static/js/main.7535c475.js"
+  ]
+}
